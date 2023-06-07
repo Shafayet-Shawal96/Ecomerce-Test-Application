@@ -19,3 +19,11 @@ docker-compose up --build
 ```
 
 it will run the backend in port 9001
+
+- Run the frontend project
+
+```bash
+npm start
+```
+
+it will run the frontend in port 3000
